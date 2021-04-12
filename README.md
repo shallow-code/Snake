@@ -1,2 +1,2 @@
 # Snake
-this is the game of Snake
+This is a version of the game of snake made by myself using pyglet
